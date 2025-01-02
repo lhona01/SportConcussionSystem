@@ -1,2 +1,2 @@
 # SportConcussionSystem
- (Console Application) Software Architecture and Design Class Project
+ (Java Console Application) Software Architecture and Design Class Project
